@@ -6,11 +6,11 @@
 }
  .mean-container .mean-bar {
      background: #0ed1f0;
-     float: left;
+     float: right;
      min-height: 40px;
      padding: 5px 0;
      position: relative;
-     width: 100%;
+     width: 20%;
      z-index: 999;
      margin-top: 15px;
 }
