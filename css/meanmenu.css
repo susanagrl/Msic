@@ -6,7 +6,7 @@
 }
  .mean-container .mean-bar {
      background: #0ed1f0;
-     float: right;
+     float: left;
      min-height: 40px;
      padding: 5px 0;
      position: relative;
